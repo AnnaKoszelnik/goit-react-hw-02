@@ -1,0 +1,13 @@
+.options-container {
+    padding: 10px;
+}
+
+.options-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.options-button {
+    margin: 5px;
+    padding: 10px 15px;
+}
